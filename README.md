@@ -6,4 +6,5 @@ DOMAIN = FRONTEND DEVELOPMENT
 DURATION = 4 WEEKS
 MENTOR = NEELA SANTOSH
 OUTPUT =
-<img width="812" height="350" alt="image" src="https://github.com/user-attachments/assets/c855ea45-ba63-43a8-96cc-60138c1f0a3b" />
+<img width="812" height="350" alt="image" src="https://github.com/user-attachments/assets/52a6cf33-b4a3-42ed-b836-8c6884e494cd" />
+
